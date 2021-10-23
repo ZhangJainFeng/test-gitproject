@@ -13,6 +13,7 @@ public class UserServiceImpl implements UserService {
             add(new User("张三","asjhdg"));
             add(new User("李四","sadas"));
             add(new User("王五","werew"));
+            add(new User("master","werew"));
         }};
     }
 }
