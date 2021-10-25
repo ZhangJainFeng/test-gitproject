@@ -20,6 +20,6 @@ public class UserServiceImpl implements UserService {
 
     @Override
     public void deleteUser(User user) {
-       System.out.println("删除一个用户")
+       System.out.println("删除一个用户");
     }
 }
