@@ -17,4 +17,9 @@ public class UserServiceImpl implements UserService {
             add(new User("hot-fix","hot-fix"));
         }};
     }
+
+    @Override
+    public void deleteUser(User user) {
+
+    }
 }
